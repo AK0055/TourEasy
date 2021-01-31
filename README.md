@@ -1,0 +1,2 @@
+# TourEasy
+## What it does In short, Toureasy is our brand new website for looking into your favorite locations, _getting current updates_  and making your travel super easy! Staying on track helps you plan your time and pack your luggage accordingly. You can go over our top picks for guidance, if you like them, click on them and check them out. Get notified of the current information and plan your stay however it suits you. It's a platform completely made for user's comfort and coziness.
